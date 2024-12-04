@@ -12,3 +12,20 @@ focused on Search Algorithms, modelling Problem States & Heuristic Functions
   - modelling starting state, goal state check, creating successor states
   - Implementing a Heuristic Function
 
+## Installation
+1. Clone the Repository
+   Clone this repository to your local machine using the following command:
+```bash
+git clone https://github.com/MahsaNasehi/Pacman.git
+```
+2. Create a virtual environment:
+   ```bash
+   python -m venv env
+   ```
+3. Activate the environment:
+- **Windows:** `env\Scripts\activate`
+- **Mac/Linux:** `source env/bin/activate`
+3. Install dependencies:
+  ```bash
+  pip install -r requirements.txt
+  ```
